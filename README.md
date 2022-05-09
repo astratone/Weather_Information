@@ -1,4 +1,4 @@
-# Wheater_Information
+# Weather_Information
 
 This is a Python program for weather information.
 
